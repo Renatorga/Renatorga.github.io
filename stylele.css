@@ -1,0 +1,30 @@
+#Nome {
+          font-style: italic;
+        }
+        .description {
+          font-style: inherit;
+        }
+        body {
+          background: lightseagreen;
+        }
+        .estilo {
+          font-style: initial;
+        }
+        .estilizar {
+          font-style: italic;
+        }
+        .tamanho1 {
+          font-size: 25px;
+        }
+        .tamanho2 {
+          font-size: 22px;
+        }
+        .tamanho3 {
+          font-size: 19px;
+        }
+        .tamanho4 {
+          font-size: 16px;
+        }
+        DIV {
+            border: 2PX solid blue;
+        }
